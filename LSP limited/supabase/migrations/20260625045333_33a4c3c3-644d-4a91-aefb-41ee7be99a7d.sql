@@ -1,0 +1,1 @@
+ALTER TABLE public.purchases ADD CONSTRAINT purchases_price_positive CHECK (price > 0);

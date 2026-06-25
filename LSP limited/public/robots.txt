@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /profile
+
+Sitemap: https://pleasant-producer.lovable.app/sitemap.xml
